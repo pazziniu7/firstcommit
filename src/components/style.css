@@ -1,0 +1,6 @@
+.mini-footer-bg {
+    background-image: url('../assets/images/bg-tablet-pattern.svg');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+}
